@@ -1,1 +1,2 @@
 # p455w0rdsthings-16x-tetures
+16x16 pixel versions of art assets from the Minecraft mod "[p455w0rd's Things](https://minecraft.curseforge.com/projects/p455w0rds-things)", completely derivative and created via a combination of resampling and hand-painting.  _I extend copyrights and sublicensing rights (if I even hand any to start with) to the maintainer of that project, in the event that they choose to use any or all of this content in that project._
